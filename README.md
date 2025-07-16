@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Peepoo12
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Analysis tools
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me via linkdin -dr nimisha parashar
+- 📫 How to reach me via linkdin - Dr Nimisha Parashar
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
